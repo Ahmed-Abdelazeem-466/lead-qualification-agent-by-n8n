@@ -86,11 +86,3 @@ workflows/
 ## Author
 
 Ahmed Abdelazeem Mohamed ([GitHub](https://github.com/Ahmed-Abdelazeem-466))
-
-## License
-
-MIT. See [LICENSE](LICENSE).
-
----
-
-*README drafted with AI assistance (Claude) and reviewed by the author.*
